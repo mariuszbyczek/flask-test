@@ -10,6 +10,6 @@ możesz do tego użyć terminalu ze swojego IDE albo:
 -windows: py -m pip install -r requirements.txt
 https://pip.pypa.io/en/stable/user_guide/
 4. W terminalu przejdź do katalogu w którym znajduje się plik main.py
-5. W terminalu załącz flaskowi zmienną środowiskową main. Postępuj zgodnie z instrukcjami na załączonej stronie poniżej.
+5. W terminalu załącz flaskowi zmienną środowiskową z main. Postępuj zgodnie z instrukcjami na załączonej stronie poniżej.
 https://flask.palletsprojects.com/en/2.0.x/quickstart/
 6. Uruchom przeglądarkę internetową i wpisz adres podany przez flaska w terminalu
